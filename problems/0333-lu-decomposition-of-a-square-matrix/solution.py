@@ -22,17 +22,15 @@ def lu_decomposition(A: list) -> tuple:
 
     for i in range(n):
 
-        # Calculate the i-th row of U
+       
         for j in range(i, n):
             U[i, j] = A[i, j] - sum(
                 L[i, k] * U[k, j] for k in range(i)
             )
 
-        # Check for zero or numerically unusable pivot
-        if abs(U[i, i]) <= tol:
-            raise ValueError("LU decomposition without pivoting failed")
+       
 
-        # Calculate the i-th column of L
+        
         for j in range(i + 1, n):
             L[j, i] = (
                 A[j, i] - sum(L[j, k] * U[k, i] for k in range(i))
