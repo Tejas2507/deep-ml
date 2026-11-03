@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:26:36.933Z",
+  "generated_at": "2026-11-03T05:53:16.279Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -348,6 +348,19 @@
       "last_pushed_at": "2026-11-02T08:21:42.562Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:92": {
+      "kind": "problem",
+      "id": "92",
+      "title": "Linear Regression - Power Grid Optimization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/92",
+      "path": "problems/0092-linear-regression-power-grid-optimization",
+      "first_solved_at": "2026-11-03T05:53:04.807Z",
+      "last_pushed_at": "2026-11-03T05:53:04.807Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
