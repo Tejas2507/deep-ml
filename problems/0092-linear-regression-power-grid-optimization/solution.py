@@ -14,7 +14,7 @@ def power_grid_forecast(consumption_data):
 	y = np.asarray(consumption_data)
 	X = np.arange(1,n+1)
 	X = np.column_stack((X, np.ones(n)))
-	w,b = np.linalg.lstsq(X,y)[0]
+	w,b = np.linalg.inv(X.T @ X) @ X.T @ y 
 
 	pred = round(w*(15) + b + 10*math.sin(2*PI*(15)/10))
 

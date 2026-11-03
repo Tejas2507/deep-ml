@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:53:16.279Z",
+  "generated_at": "2026-11-03T05:59:42.761Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -358,7 +358,7 @@
       "url": "https://www.deep-ml.com/problems/92",
       "path": "problems/0092-linear-regression-power-grid-optimization",
       "first_solved_at": "2026-11-03T05:53:04.807Z",
-      "last_pushed_at": "2026-11-03T05:53:04.807Z",
+      "last_pushed_at": "2026-11-03T05:59:39.656Z",
       "language": "python",
       "lines": 26
     }
