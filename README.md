@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 28 problems · 0 labs · 13 math
+**42** solved · 29 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-01 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-01 | [solution](problems/0009-matrix-times-matrix) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-05 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Robust Line Fitting: Least Absolute Deviations by LP and Huber by IRLS](https://www.deep-ml.com/problems/1818) | medium | 2026-11-06 | [solution](problems/1818-robust-line-fitting-least-absolute-deviations-by-lp-and-huber-by-irls) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-29 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-05 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-01 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
