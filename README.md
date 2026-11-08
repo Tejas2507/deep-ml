@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 31 problems · 0 labs · 14 math
+**46** solved · 32 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Recursive Least Squares for Simple Linear Regression](https://www.deep-ml.com/problems/1820) | easy | 2026-11-03 | [solution](problems/1820-recursive-least-squares-for-simple-linear-regression) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-29 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-29 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-08 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-01 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-05 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-01 | [solution](problems/0334-cholesky-decomposition) |
