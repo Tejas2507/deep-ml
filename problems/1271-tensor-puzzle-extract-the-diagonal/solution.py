@@ -1,8 +1,10 @@
-import numpy as np
+#include <cuda_runtime.h>
+#include <vector>
 
-def diag(A: np.ndarray) -> np.ndarray:
-    """Return the main diagonal of square matrix A."""
-    print(torch.arange(A.shape[0]), torch.arange(A.shape[0]))
+__global__ void diag_kernel(const float* A, float* out, int n) {
+    // out[i] = A[i*n + i]
+}
 
-
-    return np.asarray([A[i][i] for i in range(len(A))])
+std::vector<float> diag(const std::vector<std::vector<float>>& A) {
+    return {};
+}
