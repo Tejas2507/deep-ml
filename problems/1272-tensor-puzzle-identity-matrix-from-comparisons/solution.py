@@ -1,9 +1,9 @@
-import numpy as np
+import torch
 
-def eye(n: int) -> np.ndarray:
-    """n x n identity matrix without np.eye."""
-    eye = np.asarray([[0.0 for _ in range(n)] for _ in range(n)])
-    for i in range(n):
-        eye[i,i] = 1.0
-    return eye
+def eye(n: int) -> torch.Tensor:
+    """n x n identity via comparisons (no torch.eye)."""
+    i = torch.arange(n)
+    mask = i[:,None] == i[None,:]
+    return mask.to(torch.float64)
+
     
