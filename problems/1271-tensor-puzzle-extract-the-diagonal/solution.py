@@ -1,7 +1,3 @@
-import numpy as np
-
-def diag(A: np.ndarray) -> np.ndarray:
-    """Return the main diagonal of square matrix A."""
-    
-
-    return np.asarray([A[i][i] for i in range(len(A))])
+import torch
+def diag(A: torch.Tensor) -> torch.Tensor:
+    return A[torch.arange(A.shape[0]), torch.arange(A.shape[0])]
