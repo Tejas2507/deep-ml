@@ -6,4 +6,4 @@ def eye(n: int) -> np.ndarray:
     for i in range(n):
         eye[i][i] = 1
     return eye
-    pass
+    
