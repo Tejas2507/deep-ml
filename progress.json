@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:42:21.087Z",
+  "generated_at": "2026-11-08T06:45:10.713Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -635,6 +635,19 @@
       "last_pushed_at": "2026-11-08T06:42:20.438Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1274": {
+      "kind": "problem",
+      "id": "1274",
+      "title": "Tensor Puzzle: Cumulative Sum via Triangular Matmul",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1274",
+      "path": "problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul",
+      "first_solved_at": "2026-11-08T06:45:10.084Z",
+      "last_pushed_at": "2026-11-08T06:45:10.084Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
