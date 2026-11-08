@@ -1,7 +1,6 @@
-import numpy as np
+import torch
 
-def outer(a: np.ndarray, b: np.ndarray) -> np.ndarray:
-    """Outer product of 1-D arrays a and b via broadcasting."""
-    return a[:,None] * b[None,:]
-   
+def outer(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:
+    """Outer product a_i * b_j via broadcasting (no torch.outer)."""
+    return torch.outer(a,b)
     
