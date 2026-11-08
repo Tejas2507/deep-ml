@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:23:05.809Z",
+  "generated_at": "2026-11-08T06:26:10.093Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -609,6 +609,19 @@
       "last_pushed_at": "2026-11-08T06:23:05.213Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1272": {
+      "kind": "problem",
+      "id": "1272",
+      "title": "Tensor Puzzle: Identity Matrix from Comparisons",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1272",
+      "path": "problems/1272-tensor-puzzle-identity-matrix-from-comparisons",
+      "first_solved_at": "2026-11-08T06:26:09.422Z",
+      "last_pushed_at": "2026-11-08T06:26:09.422Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
