@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 46 problems · 0 labs · 14 math
+**61** solved · 47 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-01 | [solution](problems/0334-cholesky-decomposition) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-11-06 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-01 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-09 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-05 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-30 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-11-01 | [solution](problems/0017-k-means-clustering) |
