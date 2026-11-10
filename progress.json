@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:28:18.791Z",
+  "generated_at": "2026-11-10T14:37:26.394Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -893,6 +893,19 @@
       "path": "problems/0888-save-and-load-model-weights-with-state-dict",
       "first_solved_at": "2026-11-10T14:28:17.978Z",
       "last_pushed_at": "2026-11-10T14:28:17.978Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:1218": {
+      "kind": "problem",
+      "id": "1218",
+      "title": "Count Parameters of a Sequential Model",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1218",
+      "path": "problems/1218-count-parameters-of-a-sequential-model",
+      "first_solved_at": "2026-11-10T14:37:25.337Z",
+      "last_pushed_at": "2026-11-10T14:37:25.337Z",
       "language": "python",
       "lines": 15
     }
