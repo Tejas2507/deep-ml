@@ -10,7 +10,7 @@ class TensorPairDataset(Dataset):
 
     def __len__(self):
         # TODO: return the number of samples
-        return len(self.x)
+        return len(self.y)
         
 
     def __getitem__(self, idx):
