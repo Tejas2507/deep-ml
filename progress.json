@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:41:35.253Z",
+  "generated_at": "2026-11-13T06:50:48.404Z",
   "items": {
     "problem:23": {
       "kind": "problem",
@@ -921,6 +921,19 @@
       "last_pushed_at": "2026-11-13T06:41:23.614Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1399": {
+      "kind": "problem",
+      "id": "1399",
+      "title": "Custom Autograd Function: Swish Forward and Backward",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1399",
+      "path": "problems/1399-custom-autograd-function-swish-forward-and-backward",
+      "first_solved_at": "2026-11-13T06:50:47.716Z",
+      "last_pushed_at": "2026-11-13T06:50:47.716Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
